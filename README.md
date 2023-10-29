@@ -1,2 +1,4 @@
 # MERN STACK IMPLEMENTATION
-Creating a Todo Applction
+## Implementing a MERN stack solution
+## Creating a Todo Application
+## RESTFUL API testing
